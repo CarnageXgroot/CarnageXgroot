@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **garvitsinghofficial12@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1LEVN1zLdU_hub0Csc1MjC9j4-xonV7Ub/edit?usp=sharing&ouid=113549892535071233580&rtpof=true&sd=true](https://docs.google.com/document/d/1LEVN1zLdU_hub0Csc1MjC9j4-xonV7Ub/edit?usp=sharing&ouid=113549892535071233580&rtpof=true&sd=true)
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1LEVN1zLdU_hub0Csc1MjC9j4-xonV7Ub/edit?usp=sharing&ouid=113549892535071233580&rtpof=true&sd=true">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
