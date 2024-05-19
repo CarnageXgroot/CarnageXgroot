@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Garvit Singh</h1>
 <h3 align="center">A passionate UI/UX developer from India</h3>
 
-<img align="left" alt="Designing" width="400" src="https://cdn.dribbble.com/users/124447/screenshots/3437005/media/6821da7ce5fbfa30b95e7651df4f0f5f.gif">
+<img align="right" alt="Designing" width="400" src="https://cdn.dribbble.com/users/124447/screenshots/3437005/media/6821da7ce5fbfa30b95e7651df4f0f5f.gif">
 
 - 👨‍💻 All of my projects are available at [https://garvitsingh.netlify.app](https://garvitsingh.netlify.app)
 
