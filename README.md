@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Garvit Singh</h1>
+<h1 align="center">Hi 👋, This is Garvit Singh</h1>
 <h3 align="center">A passionate UI/UX developer from India</h3>
 
 <img align="right" alt="Designing" width="400" src="https://cdn.dribbble.com/users/124447/screenshots/3437005/media/6821da7ce5fbfa30b95e7651df4f0f5f.gif">
 
-A self-motivated information technology undergrad pursuing my Btech from Bharati Vidyapeeth with interests in graphic design, UI/UX, and web development. 
+He is an independent and driven Information Technology undergraduate at Bharati Vidyapeeth, with a passion for graphic design, UI/UX, and web development.
 
-I’m an honest and punctual person who works well in a team and on my own as I like to set goals that I will achieve, and I have good listening and communication skills. I have a creative mind and am always up for new challenges and learning new things along my journey. I am well organized and always plan ahead to make sure I manage my time well.
- 
-I believe in “Great things happen to those who don't stop believing, trying, learning, and being grateful.”, a quote by Roy T. Bennett, which is justified by my eagerness to participate in events, learn new things, and gain experiences at every corner of my life.
+He prides himself on being honest and punctual, qualities that help him excel both in team settings and solo projects. Garvit sets ambitious goals and works diligently to achieve them, leveraging his strong listening and communication skills. His creativity fuels his enthusiasm for tackling new challenges and continuously learning throughout his journey. He is well-organized and adept at time management, ensuring that he stays ahead of deadlines.
 
-Please feel free to reach out to me to explore potential collaborations or to learn more about my work. 
+Garvit has led multiple teams of 5-10 people, demonstrating his leadership and project management skills. Additionally, he has organized multiple successful events, showcasing his ability to plan and execute large-scale activities. His creative skills have brought life to plain paper, transforming ideas into tangible and impactful designs.
+
+He lives by the quote, “Great things happen to those who don't stop believing, trying, learning, and being grateful,” by Roy T. Bennett. This philosophy drives his eagerness to participate in events, acquire new skills, and seek out diverse experiences.
+
+Garvit is always open to exploring potential collaborations and opportunities to apply his skills. Please feel free to reach out if you’re interested in working together or learning more about his work. He looks forward to contributing to the success of your projects. 
 
 - 💬 Ask me about **Web Designing, UI/UX**
 
