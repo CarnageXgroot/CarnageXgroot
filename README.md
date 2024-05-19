@@ -3,6 +3,14 @@
 
 <img align="right" alt="Designing" width="400" src="https://cdn.dribbble.com/users/124447/screenshots/3437005/media/6821da7ce5fbfa30b95e7651df4f0f5f.gif">
 
+A self-motivated information technology undergrad pursuing my Btech from Bharati Vidyapeeth with interests in graphic design, UI/UX, and web development. 
+
+I’m an honest and punctual person who works well in a team and on my own as I like to set goals that I will achieve, and I have good listening and communication skills. I have a creative mind and am always up for new challenges and learning new things along my journey. I am well organized and always plan ahead to make sure I manage my time well.
+ 
+I believe in “Great things happen to those who don't stop believing, trying, learning, and being grateful.”, a quote by Roy T. Bennett, which is justified by my eagerness to participate in events, learn new things, and gain experiences at every corner of my life.
+
+Please feel free to reach out to me to explore potential collaborations or to learn more about my work. 
+
 - 💬 Ask me about **Web Designing, UI/UX**
 
 - 👨‍💻 All of my projects are available at https://garvitsingh.netlify.app
